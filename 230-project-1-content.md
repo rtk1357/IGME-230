@@ -24,9 +24,7 @@ The game will be taught through a one-page instructions screen that will be link
 As the game itself is very simple and relies more on hand-eye coordination and reflexes then anything else, the player will need to learn very little in order to beat the game.  Rather, they will simply continue to play until they get an intuitive sense of where they need to be, when.
 
 ### Screenshots
-![Game Screenshot 1](https://github.com/rtk1357/IGME-230/blob/master/Images/GamePlay.jpg)
-
-![Game ScreenShot 2](https://github.com/rtk1357/IGME-230/blob/master/Images/MainMenu.jpg)
+![Game Screenshot 1](https://github.com/rtk1357/IGME-230/blob/master/Images/GameScreenshot.jpg)
 
 ### About the Developer
 This game is being developed by Ryan Kohn, a Game Design and Devolpment major aiming to graduate in 2020.  Ryan is proficient in C#, has a basic understanding of Adobe Photoshop/Illustrator/Aftereffects, and will be learning how to use Javascript, Unity, and Maya this semester.  His interests include playing games, especially trading card games, practicing martial arts, and watching anime.
