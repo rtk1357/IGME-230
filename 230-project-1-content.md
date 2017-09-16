@@ -25,6 +25,8 @@ As the game itself is very simple and relies more on hand-eye coordination and r
 
 ### Screenshots
 ![Game Screenshot 1](https://github.com/rtk1357/IGME-230/blob/master/Images/GamePlay.jpg)
+
+
 ![Game ScreenShot 2](https://github.com/rtk1357/IGME-230/blob/master/Images/MainMenu.jpg)
 
 ### About the Developer
