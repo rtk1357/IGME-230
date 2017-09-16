@@ -1,7 +1,7 @@
 # Mole Control
 
 ### High Concept
-Whack-a-mole crossed with shoot-'em-up, where the moles build walls to defend themselves.
+Whack-a-mole crossed with shoot-em-up, where the moles build walls to defend themselves.
 
 ### Genre: Action, Casual
 
