@@ -3,9 +3,9 @@
 ### High Concept
 Whack-a-mole crossed with shoot-em-up, where the moles build walls to defend themselves.
 
-### Genre: Action, Casual
+#### Genre: Action, Casual
 
-### Platform: Desktop-Only
+#### Platform: Desktop-Only
 
 ### Story
 In this game, moles have grown tired of solely living underground and want to expand their kingdom into the world above.  They plan to start building immediately, and as pest-control, the player's job is to halt the construction by shooting the mole builders as they appear from their holes.  The game will have a light-hearted playful mood, just like the original whack-a-mole game, with the thrill of trying to defeat the moles before they can hide back in their holes.
@@ -25,7 +25,7 @@ As the game itself is very simple and relies more on hand-eye coordination and r
 
 ### Screenshots
 ![Game Screenshot 1](https://github.com/rtk1357/IGME-230/blob/master/Images/GamePlay.jpg)
-1[Game ScreenShot 2](https://github.com/rtk1357/IGME-230/blob/master/Images/MainMenu.jpg)
+![Game ScreenShot 2](https://github.com/rtk1357/IGME-230/blob/master/Images/MainMenu.jpg)
 
 ### About the Developer
 This game is being developed by Ryan Kohn, a Game Design and Devolpment major aiming to graduate in 2020.  Ryan is proficient in C#, has a basic understanding of Adobe Photoshop/Illustrator/Aftereffects, and will be learning how to use Javascript, Unity, and Maya this semester.  His interests include playing games, especially trading card games, practicing martial arts, and watching anime.
